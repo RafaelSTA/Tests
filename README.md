@@ -1,2 +1,2 @@
 # Tests
-Just me learning code
+Just me learning to code
